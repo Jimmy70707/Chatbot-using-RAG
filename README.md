@@ -89,6 +89,11 @@ This project is licensed under the MIT License.
 - [Hugging Face](https://huggingface.co)
 - [Streamlit](https://streamlit.io)
 
+## 👤 Author
+Muhammed Gamal
+
+Machine Learning & AI Engineer
+
 ## 🤝 Get in Touch
 
 <p align="center">
